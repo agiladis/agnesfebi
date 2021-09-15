@@ -96,7 +96,7 @@ if (isset($_POST['kirim'])) {
                 <div class="container-couple overflow-x-hidden">
                     <div class="couple-half" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                         <div class="photo-holder">
-                            <img src="./img/agnes.jpg" alt="">
+                            <img src="./img/agnes-min.jpg" alt="">
                         </div> <!-- end photo-holder -->
                         <div class="desc-groom">
                             <h1 class="font-alexBrush m-0">Agnes</h1>
@@ -126,7 +126,7 @@ if (isset($_POST['kirim'])) {
                             </p>
                         </div> <!-- end desc-groom -->
                         <div class="photo-holder">
-                            <img src="./img/febri.jpg" alt="">
+                            <img src="./img/febri-min.jpg" alt="">
                         </div> <!-- end photo-holder -->
                     </div> <!-- end couple-half -->
                 </div> <!-- end container-couple -->
@@ -234,13 +234,13 @@ if (isset($_POST['kirim'])) {
                 <div class="gallery container">
                     <div class="row">
                         <div class="col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-easing="ease-in-sine">
-                            <img src="./img/2.jpg" alt="">
+                            <img src="./img/2-min.jpg" alt="">
                         </div>
                         <div class="col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-easing="ease-in-sine">
-                            <img src="./img/3.jpg" alt="">
+                            <img src="./img/3-min.jpg" alt="">
                         </div>
                         <div class="col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-easing="ease-in-sine">
-                            <img src="./img/4.jpg" alt="">
+                            <img src="./img/4-min.jpg" alt="">
                         </div>
                     </div> <!-- end row -->
                 </div> <!-- end gallery -->
